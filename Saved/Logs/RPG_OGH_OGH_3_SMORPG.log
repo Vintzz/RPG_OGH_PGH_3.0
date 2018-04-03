@@ -390,3 +390,96 @@ LogInit: Object subsystem initialized
 [2018.04.03-08.03.09:999][981]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMap_BuiltData760C2C8F446ABCD3D93B65B9128C2DE3.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset'
 [2018.04.03-08.03.10:002][981]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset
 [2018.04.03-08.03.10:007][981]LogFileHelpers: Saving map 'BaseMap' took 0.208
+[2018.04.03-08.10.42:069][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-08.10.42:098][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.03-08.10.42:145][572]LogSavePackage: Save=26.23ms
+[2018.04.03-08.10.42:145][572]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMapF96D1F18401F7FD06136669555858B4D.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap'
+[2018.04.03-08.10.42:148][572]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap
+[2018.04.03-08.10.42:159][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap_BuiltData" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset" SILENT=true
+[2018.04.03-08.10.42:182][572]LogSavePackage: Save=16.15ms
+[2018.04.03-08.10.42:183][572]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMap_BuiltData9A57AAAF4C8CBEDDFBC4C79AEAE00684.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset'
+[2018.04.03-08.10.42:185][572]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset
+[2018.04.03-08.10.44:113][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-08.10.45:062][689]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-08.10.46:792][689]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.03-08.10.46:995][690]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RPGOGHOGH3SMORPG
+[2018.04.03-08.10.46:995][690]LogTemp: CWD: F:\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.03-08.10.46:995][690]LogTemp: Initial Dir: F:\Epic Games\UE_4.19
+[2018.04.03-08.10.46:995][690]LogTemp: Env CWD: F:\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.03-08.10.46:995][690]LogTemp: BranchPath = HPILLUMINATI/F/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = HPILLUMINATI/F/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.03-08.10.46:995][690]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VaucouleurV\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.03-08.12.21:123][782]LogSlate: Window 'Project Settings' being destroyed
+[2018.04.03-08.12.21:132][782]LogSlate: Window 'Project Settings' being destroyed
+[2018.04.03-08.12.22:001][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-08.12.22:025][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.03-08.12.22:103][808]LogSavePackage: Save=46.06ms
+[2018.04.03-08.12.22:104][808]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMapA26CC9504038427F3B1A2E916C346C73.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap'
+[2018.04.03-08.12.22:108][808]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap
+[2018.04.03-08.12.22:138][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap_BuiltData" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset" SILENT=true
+[2018.04.03-08.12.22:175][808]LogSavePackage: Save=30.42ms
+[2018.04.03-08.12.22:175][808]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMap_BuiltData17C29200486B8B79915C0A87418F1B24.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset'
+[2018.04.03-08.12.22:180][808]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset
+[2018.04.03-08.12.30:440][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-08.12.30:468][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.03-08.12.30:550][ 83]LogSavePackage: Save=44.95ms
+[2018.04.03-08.12.30:550][ 83]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMap258E15AB4C9153432A6EF9A92B5C4648.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap'
+[2018.04.03-08.12.30:554][ 83]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap
+[2018.04.03-08.12.30:578][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap_BuiltData" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset" SILENT=true
+[2018.04.03-08.12.30:609][ 83]LogSavePackage: Save=25.23ms
+[2018.04.03-08.12.30:609][ 83]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMap_BuiltData72E22D294BB7872BF844BCB2DAA1B6A0.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset'
+[2018.04.03-08.12.30:613][ 83]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap_BuiltData.uasset
+[2018.04.03-08.12.31:383][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-08.12.32:419][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.03-08.12.32:420][170]PIE: New page: PIE session: BaseMap (3 avr. 2018 12:12:32)
+[2018.04.03-08.12.32:420][170]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.03-08.12.32:423][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002728s)
+[2018.04.03-08.12.32:424][170]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.03-08.12.32:424][170]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2018.04.03-08.12.32:424][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.004005s)
+[2018.04.03-08.12.32:449][170]LogInit: XAudio2 using 'Haut-parleurs (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.03-08.12.32:463][170]LogInit: FAudioDevice initialized.
+[2018.04.03-08.12.32:467][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-08.12.32:526][170]LogLoad: Game class is 'GameModeBase'
+[2018.04.03-08.12.32:529][170]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 60) at 2018.04.03-10.12.32
+[2018.04.03-08.12.32:530][170]LogWorld: Bringing up level for play took: 0.001191
+[2018.04.03-08.12.32:538][170]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.04.03-08.12.32:547][170]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0,577
+[2018.04.03-08.12.34:730][282]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.03-08.12.36:862][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.03-08.12.37:437][364]Cmd: DELETE
+[2018.04.03-08.12.37:437][364]Cmd: ACTOR DELETE
+[2018.04.03-08.12.37:450][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.04.03-08.12.37:478][364]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.04.03-08.12.40:019][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.03-08.12.48:474][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.03-08.12.51:969][860]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.03-08.13.02:047][249]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.03-08.13.07:972][410]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.03-08.13.11:253][511]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.03-08.13.23:085][ 32]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.03-08.13.23:273][ 33]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.RPGOGHOGH3SMORPG
+[2018.04.03-08.13.23:273][ 33]LogTemp: CWD: F:\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.03-08.13.23:273][ 33]LogTemp: Initial Dir: F:\Epic Games\UE_4.19
+[2018.04.03-08.13.23:273][ 33]LogTemp: Env CWD: F:\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.03-08.13.23:273][ 33]LogTemp: BranchPath = HPILLUMINATI/F/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = HPILLUMINATI/F/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.03-08.13.23:273][ 33]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VaucouleurV\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.03-08.14.14:584][637]LogSlate: Window 'Project Settings' being destroyed
+[2018.04.03-08.14.14:593][637]LogSlate: Window 'Project Settings' being destroyed
+[2018.04.03-08.14.17:453][683]LogSlate: Window 'Save Content' being destroyed
+[2018.04.03-08.14.17:475][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/My_GM" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/My_GM.uasset" SILENT=true
+[2018.04.03-08.14.17:492][683]LogSavePackage: Save=11.34ms
+[2018.04.03-08.14.17:492][683]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/My_GMECDAE08246EFF16723278F82861D82A3.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/My_GM.uasset'
+[2018.04.03-08.14.17:498][683]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/My_GM.uasset
+[2018.04.03-08.14.17:503][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/My_PC" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/My_PC.uasset" SILENT=true
+[2018.04.03-08.14.17:515][683]LogSavePackage: Save=9.12ms
+[2018.04.03-08.14.17:515][683]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/My_PCFF4257694A33DECE1056A2BE09C378C8.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/My_PC.uasset'
+[2018.04.03-08.14.17:521][683]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/My_PC.uasset
+[2018.04.03-08.14.17:528][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerPawn" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/PlayerPawn.uasset" SILENT=true
+[2018.04.03-08.14.17:539][683]LogSavePackage: Save=8.09ms
+[2018.04.03-08.14.17:539][683]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/PlayerPawn9F27272549AFCFF554788C88871B52D3.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/PlayerPawn.uasset'
+[2018.04.03-08.14.17:545][683]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Blueprints/PlayerPawn.uasset
+[2018.04.03-08.14.17:629][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BaseMap" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.03-08.14.17:671][683]LogSavePackage: Save=24.78ms
+[2018.04.03-08.14.17:671][683]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMapC71BE55C438EB50A99B5D4B840C8AEAB.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap'
+[2018.04.03-08.14.17:676][683]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap
+[2018.04.03-08.14.17:689][683]LogFileHelpers: Saving map 'BaseMap' took 0.141
