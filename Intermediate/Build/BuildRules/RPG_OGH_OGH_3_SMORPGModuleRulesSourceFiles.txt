@@ -1,0 +1,2 @@
+C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\Plugins\Designer\Source\Designer\Designer.Build.cs
+C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\Intermediate\Source\RPG_OGH_OGH_3_SMORPG.Target.cs
