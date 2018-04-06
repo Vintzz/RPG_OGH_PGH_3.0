@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-E26FFE0E4502FE4DA6003B8CD50CAD03_0000</CrashGUID>
+		<ProcessId>8228</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>false</IsEnsure>
+		<IsAssert>true</IsAssert>
+		<CrashType>Assert</CrashType>
+		<SecondsSinceStart>0</SecondsSinceStart>
+		<GameName>UE4-RPG_OGH_OGH_3_SMORPG</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Unset</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.19.0-3944462+++UE4+Release-4.19</EngineVersion>
+		<CommandLine>&quot;C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\RPG_OGH_OGH_3_SMORPG.uproject&quot;</CommandLine>
+		<LanguageLCID>1036</LanguageLCID>
+		<AppDefaultLocale>fr-FR</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.19-CL-3944462</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>VaucouleurV</UserName>
+		<BaseDir>F:/Epic Games/UE_4.19/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>F:/Epic Games/UE_4.19/</RootDir>
+		<MachineId>F3F4C4614AE92268290EEF9AB01BC95D</MachineId>
+		<LoginId>f3f4c4614ae92268290eef9ab01bc95d</LoginId>
+		<EpicAccountId>9667c87ae98b4c59b33858b78b85c915</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription />
+		<UserActivityHint />
+		<ErrorMessage>Fatal error: [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMemory.cpp] [Line: 183] Ran out of memory allocating 4163264 bytes with alignment 0</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>2</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 520</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<GameStateName />
+		<MemoryStats.TotalPhysical>8464728064</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>113745920</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140736752181248</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>384036864</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>384036864</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>335536128</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>373350400</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>1</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>4163264</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636585969155850000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
