@@ -1,0 +1,1333 @@
+﻿Log file open, 04/09/18 08:55:23
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RPG_OGH_OGH_3_SMORPG
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1791422175) SRandInit(-1791422175).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204173
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Plugins/Designer/Binaries/Win64/UE4Editor-Designer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Designer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.192s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am HPIlluminati (10.131.94.103:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: F:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.09-06.55.25:997][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.09-06.55.25:997][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.09-06.55.26:013][  0]LogInit: Computer: HPILLUMINATI
+[2018.04.09-06.55.26:013][  0]LogInit: User: VaucouleurV
+[2018.04.09-06.55.26:013][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.04.09-06.55.26:013][  0]LogInit: High frequency timer resolution =2.531248 MHz
+[2018.04.09-06.55.26:013][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.09-06.55.26:013][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.09-06.55.26:013][  0]LogMemory: Process Physical Memory: 275.21 MB used, 275.21 MB peak
+[2018.04.09-06.55.26:013][  0]LogMemory: Process Virtual Memory: 276.31 MB used, 276.31 MB peak
+[2018.04.09-06.55.26:013][  0]LogMemory: Physical Memory: 4759.40 MB used,  3313.20 MB free, 8072.59 MB total
+[2018.04.09-06.55.26:013][  0]LogMemory: Virtual Memory: 643.31 MB used,  3313.20 MB free, 134217728.00 MB total
+[2018.04.09-06.55.26:063][  0]LogInit: Using OS detected language (fr-FR).
+[2018.04.09-06.55.26:063][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.04.09-06.55.26:068][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.04.09-06.55.26:626][  0]LogStreaming: Display: Took  0.563s to EndInitTextLocalization.
+[2018.04.09-06.55.26:626][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.09-06.55.26:664][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.09-06.55.26:664][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.09-06.55.27:004][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.09-06.55.27:072][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.04.09-06.55.27:073][  0]LogD3D11RHI:       128/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.04.09-06.55.27:075][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.09-06.55.27:075][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.09-06.55.27:076][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.09-06.55.27:081][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.09-06.55.27:081][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.09-06.55.27:082][  0]LogWindows: EnumDisplayDevices:
+[2018.04.09-06.55.27:082][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.04.09-06.55.27:082][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.04.09-06.55.27:083][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.04.09-06.55.27:083][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.04.09-06.55.27:083][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2018.04.09-06.55.27:083][  0]LogD3D11RHI:   Driver Version: 23.20.16.4877 (internal:23.20.16.4877, unified:23.20.16.4877)
+[2018.04.09-06.55.27:083][  0]LogD3D11RHI:      Driver Date: 12-1-2017
+[2018.04.09-06.55.27:083][  0]LogRHI: Texture pool is 1502 MB (70% of 2146 MB)
+[2018.04.09-06.55.27:145][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.09-06.55.27:155][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2018.04.09-06.55.27:157][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Intermediate/Shaders/WorkingDirectory/12100/).
+[2018.04.09-06.55.27:157][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VaucouleurV/AppData/Local/Temp/UnrealShaderWorkingDir/2AD470C24D498FBF2D808E877A7E60A5/'.
+[2018.04.09-06.55.27:559][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.09-06.55.27:584][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.09-06.55.27:607][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.09-06.55.27:626][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.09-06.55.27:646][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.09-06.55.27:665][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.09-06.55.27:684][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.09-06.55.27:704][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.09-06.55.27:712][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.09-06.55.27:730][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.09-06.55.27:748][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.09-06.55.27:766][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.09-06.55.27:784][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.09-06.55.27:802][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.09-06.55.27:820][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.09-06.55.27:855][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.09-06.55.27:855][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.09-06.55.27:873][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.09-06.55.27:875][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.09-06.55.27:920][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.09-06.55.27:936][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.09-06.55.27:953][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.09-06.55.27:970][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.09-06.55.27:988][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.09-06.55.28:007][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.09-06.55.28:007][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.09-06.55.28:206][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.09-06.55.28:206][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.09-06.55.28:206][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.09-06.55.29:154][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.09-06.55.29:238][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/VaucouleurV/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.09-06.55.29:238][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VaucouleurV/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.09-06.55.29:238][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.09-06.55.29:238][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.09-06.55.29:239][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.09-06.55.29:239][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.09-06.55.29:260][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.09-06.55.29:274][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VaucouleurV/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.09-06.55.29:289][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.09-06.55.29:289][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.09-06.55.29:290][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.09-06.55.29:290][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.09-06.55.29:585][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2018.04.09-06.55.30:047][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.09-06.55.30:260][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.09-06.55.30:264][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.09-06.55.30:264][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.09-06.55.30:264][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.09-06.55.30:264][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.09-06.55.30:264][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.09-06.55.30:312][  0]LogNetVersion: RPG_OGH_OGH_3_SMORPG , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1955048836)
+[2018.04.09-06.55.30:920][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.072045 seconds
+[2018.04.09-06.55.30:926][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.09-06.55.30:926][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.09-06.55.30:926][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.09-06.55.33:371][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.09-06.55.33:419][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.09-06.55.34:064][  0]SourceControl: Source control is disabled
+[2018.04.09-06.55.34:065][  0]SourceControl: Source control is disabled
+[2018.04.09-06.55.34:105][  0]SourceControl: Source control is disabled
+[2018.04.09-06.55.34:140][  0]SourceControl: Source control is disabled
+[2018.04.09-06.55.35:005][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.09-06.55.35:306][  0]LogOcInput: OculusInput pre-init called
+[2018.04.09-06.55.35:480][  0]LogEngine: Initializing Engine...
+[2018.04.09-06.55.35:482][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.09-06.55.35:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.09-06.55.35:484][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.09-06.55.35:844][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.09-06.55.35:861][  0]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-06.55.35:873][  0]LogInit: FAudioDevice initialized.
+[2018.04.09-06.55.35:981][  0]LogDerivedDataCache: Saved boot cache 0.11s 74MB C:/Users/VaucouleurV/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.09-06.55.35:999][  0]LogInit: Texture streaming: Enabled
+[2018.04.09-06.55.36:026][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.09-06.55.36:044][  0]LogInit: Transaction tracking system initialized
+[2018.04.09-06.55.36:077][  0]BlueprintLog: New page: Editor Load
+[2018.04.09-06.55.36:180][  0]LocalizationService: Localization service is disabled
+[2018.04.09-06.55.36:710][  0]LogConsoleResponse: Display: 
+[2018.04.09-06.55.36:945][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.09-06.55.36:945][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.09-06.55.36:945][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.09-06.55.36:945][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.09-06.55.36:945][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.09-06.55.37:349][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/' took 0.03s
+[2018.04.09-06.55.37:624][  0]SourceControl: Source control is disabled
+[2018.04.09-06.55.37:624][  0]Cmd: MAP LOAD FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Maps/BaseMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.09-06.55.37:625][  0]LightingResults: New page: Lighting Build
+[2018.04.09-06.55.37:629][  0]MapCheck: New page: Map Check
+[2018.04.09-06.55.37:629][  0]LightingResults: New page: Lighting Build
+[2018.04.09-06.55.37:869][  0]LogBlueprint: Warning: [Compiler My_Player] Get : 'Level' variable not found. Base class was probably changed. /Game/Blueprints/My_Player.My_Player
+[2018.04.09-06.55.37:869][  0]LogBlueprint: Warning: [Compiler My_Player] Get : 'MaxXp' variable not found. Base class was probably changed. /Game/Blueprints/My_Player.My_Player
+[2018.04.09-06.55.37:886][  0]LogBlueprint: Warning: [Compiler My_Player] [0016,37] Compile of My_Player successful, but with 2 Warning(s) [in 18 ms] (/Game/Blueprints/My_Player.My_Player)
+[2018.04.09-06.55.39:427][  0]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-06.55.39:667][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.09-06.55.39:719][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.09-06.55.39:830][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110,404ms to complete.
+[2018.04.09-06.55.39:830][  0]LogFileHelpers: Loading map 'BaseMap' took 2.206
+[2018.04.09-06.55.40:002][  0]LogCollectionManager: Loaded 0 collections in 0.003659 seconds
+[2018.04.09-06.55.40:053][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Collections/' took 0.01s
+[2018.04.09-06.55.40:053][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Developers/VaucouleurV/Collections/' took 0.01s
+[2018.04.09-06.55.40:053][  0]LogFileCache: Scanning file cache for directory 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Collections/' took 0.01s
+[2018.04.09-06.55.40:053][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.09-06.55.40:072][  0]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 2453 classes and 561 folders.
+[2018.04.09-06.55.40:083][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.09-06.55.40:194][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.09-06.55.40:200][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.09-06.55.40:368][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.09-06.55.40:371][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.09-06.55.40:382][  0]LogSlate: Took 0.000421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.09-06.55.40:581][  0]LogRenderer: Reallocating scene render targets to support 1248x648 Format 9 NumSamples 1 (Frame:1).
+[2018.04.09-06.55.40:809][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.04.09-06.55.40:809][  0]LogLoad: (Engine Initialization) Total time: 19.30 seconds
+[2018.04.09-06.55.40:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.09-06.55.41:202][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.04.09-06.55.41:221][  0]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.09-06.55.41:494][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/' took 0.33s
+[2018.04.09-06.55.41:518][  1]LogAssetRegistry: Asset discovery search completed in 11.9554 seconds
+[2018.04.09-06.55.41:521][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.09-06.55.41:521][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2018.04.09-06.55.51:873][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-06.55.52:229][ 86]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-06.55.52:311][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-06.55.52:311][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-06.55.52:313][ 86]PIE: New page: PIE session: BaseMap (9 avr. 2018 10:55:52)
+[2018.04.09-06.55.52:321][ 86]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-06.55.52:911][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.590117s)
+[2018.04.09-06.55.52:912][ 86]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-06.55.52:913][ 86]LogPlayLevel: PIE: World Init took: (0.001460s)
+[2018.04.09-06.55.52:913][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.591962s)
+[2018.04.09-06.55.52:959][ 86]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-06.55.52:977][ 86]LogInit: FAudioDevice initialized.
+[2018.04.09-06.55.53:046][ 86]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-06.55.53:067][ 86]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-08.55.53
+[2018.04.09-06.55.53:069][ 86]LogWorld: Bringing up level for play took: 0.019736
+[2018.04.09-06.55.53:078][ 86]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.04.09-06.55.53:090][ 86]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap -0,136
+[2018.04.09-06.55.53:091][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-06.55.59:533][321]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-06.55.59:606][321]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-06.55.59:659][321]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-06.56.00:618][341]LogEditorViewport: Clicking on Actor (LMB): Sanglier_BP_C (Sanglier_BP)
+[2018.04.09-06.56.01:681][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-06.56.01:784][358]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-06.56.01:831][358]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-06.56.01:831][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-06.56.01:831][358]PIE: New page: PIE session: BaseMap (9 avr. 2018 10:56:01)
+[2018.04.09-06.56.01:832][358]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-06.56.02:091][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.259320s)
+[2018.04.09-06.56.02:093][358]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-06.56.02:093][358]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2018.04.09-06.56.02:093][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.261050s)
+[2018.04.09-06.56.02:129][358]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-06.56.02:140][358]LogInit: FAudioDevice initialized.
+[2018.04.09-06.56.02:199][358]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-06.56.02:218][358]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-08.56.02
+[2018.04.09-06.56.02:219][358]LogWorld: Bringing up level for play took: 0.019812
+[2018.04.09-06.56.02:231][358]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 1,005
+[2018.04.09-06.56.02:231][358]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-06.56.10:613][713]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-06.56.10:684][713]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-06.56.10:739][713]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.04.17:272][254]AssetReimport: New page: Outstanding source content changes 11:04:17
+[2018.04.09-07.04.17:275][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png)
+[2018.04.09-07.04.17:786][254]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.09-07.04.17:832][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/img/Sanglier/Sanglier_Walk" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset" SILENT=true
+[2018.04.09-07.04.17:934][255]LogSavePackage: Save=99.26ms
+[2018.04.09-07.04.17:934][255]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_WalkC9D36B2F45933011EC92AE99455C7FE0.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset'
+[2018.04.09-07.04.17:943][255]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset
+[2018.04.09-07.04.20:982][347]AssetReimport: Importing new asset /Game/Data/img/Sanglier/Sanglier_Walk.
+[2018.04.09-07.04.25:776][429]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.04.25:805][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.04.25:806][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-07.04.25:807][429]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:04:25)
+[2018.04.09-07.04.25:808][429]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.04.25:983][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.174390s)
+[2018.04.09-07.04.25:984][429]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.04.25:984][429]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2018.04.09-07.04.25:984][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.175862s)
+[2018.04.09-07.04.26:008][429]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.04.26:018][429]LogInit: FAudioDevice initialized.
+[2018.04.09-07.04.26:066][429]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.04.26:079][429]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.04.26
+[2018.04.09-07.04.26:080][429]LogWorld: Bringing up level for play took: 0.013845
+[2018.04.09-07.04.26:090][429]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0,864
+[2018.04.09-07.04.26:090][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.04.26:770][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.04.26:799][452]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.04.26:851][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.04.27:471][465]LogEditorViewport: Clicking on Actor (LMB): Sanglier_BP_C (Sanglier_BP)
+[2018.04.09-07.04.30:259][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.04.34:952][623]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.04.09-07.04.37:168][680]LogTexture: Display: Building textures: Sanglier_Walk (BGRA8, 1024X2048)
+[2018.04.09-07.04.38:866][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/img/Sanglier/Sanglier_Walk" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset" SILENT=true
+[2018.04.09-07.04.39:024][702]LogSavePackage: Save=9.45ms
+[2018.04.09-07.04.39:024][702]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_WalkB149E7CD448DAD5C1CCF5890F0EDC334.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset'
+[2018.04.09-07.04.39:033][702]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset
+[2018.04.09-07.04.42:168][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/img/Sanglier/Sanglier_Walk" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset" SILENT=true
+[2018.04.09-07.04.42:305][768]LogSavePackage: Save=8.58ms
+[2018.04.09-07.04.42:305][768]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_WalkE9AC090B417E4903DE9643B4119C58C2.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset'
+[2018.04.09-07.04.42:315][768]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset
+[2018.04.09-07.04.52:278][841]AssetReimport: New page: Outstanding source content changes 11:04:52
+[2018.04.09-07.04.52:365][842]LogEditorFactories: Performing atomic reimport of [C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png]
+[2018.04.09-07.04.52:366][842]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png)
+[2018.04.09-07.04.52:811][842]LogEditorFactories: -- imported successfully
+[2018.04.09-07.04.52:936][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/img/Sanglier/Sanglier_Walk" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset" SILENT=true
+[2018.04.09-07.04.53:094][843]LogSavePackage: Save=90.34ms
+[2018.04.09-07.04.53:095][843]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_Walk4F64E32C480B1CCB3B96D693248906D7.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset'
+[2018.04.09-07.04.53:102][843]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset
+[2018.04.09-07.04.53:440][852]LogSlate: Window 'Sanglier_Walk' being destroyed
+[2018.04.09-07.04.53:507][852]LogSlate: Window 'Sanglier_Walk' being destroyed
+[2018.04.09-07.04.56:122][928]AssetReimport: Reimported asset Sanglier_Walk from C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png.
+[2018.04.09-07.05.00:589][ 20]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.09-07.05.02:736][105]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.09-07.05.30:788][464]AssetReimport: New page: Outstanding source content changes 11:05:30
+[2018.04.09-07.05.30:809][465]LogEditorFactories: Performing atomic reimport of [C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png]
+[2018.04.09-07.05.30:810][465]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png)
+[2018.04.09-07.05.30:928][465]LogEditorFactories: -- imported successfully
+[2018.04.09-07.05.31:082][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/img/Sanglier/Sanglier_Walk" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset" SILENT=true
+[2018.04.09-07.05.31:155][466]LogSavePackage: Save=3.42ms
+[2018.04.09-07.05.31:155][466]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_Walk8D02CBB84821B8649C7380A12D0D2D1D.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset'
+[2018.04.09-07.05.31:164][466]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset
+[2018.04.09-07.05.34:180][553]AssetReimport: Reimported asset Sanglier_Walk from C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png.
+[2018.04.09-07.05.44:905][635]AssetReimport: New page: Outstanding source content changes 11:05:44
+[2018.04.09-07.05.44:924][636]LogEditorFactories: Performing atomic reimport of [C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png]
+[2018.04.09-07.05.44:925][636]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png)
+[2018.04.09-07.05.45:003][636]LogEditorFactories: -- imported successfully
+[2018.04.09-07.05.45:153][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/img/Sanglier/Sanglier_Walk" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset" SILENT=true
+[2018.04.09-07.05.45:226][637]LogSavePackage: Save=3.27ms
+[2018.04.09-07.05.45:226][637]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_WalkA79E88984E26426DB1A68989475454F1.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset'
+[2018.04.09-07.05.45:235][637]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset
+[2018.04.09-07.05.48:245][736]AssetReimport: Reimported asset Sanglier_Walk from C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png.
+[2018.04.09-07.05.51:196][804]LogSlate: Window 'Extract sprites' being destroyed
+[2018.04.09-07.06.00:905][904]AssetReimport: New page: Outstanding source content changes 11:06:00
+[2018.04.09-07.06.00:918][905]LogEditorFactories: Performing atomic reimport of [C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png]
+[2018.04.09-07.06.00:919][905]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png)
+[2018.04.09-07.06.01:020][905]LogEditorFactories: -- imported successfully
+[2018.04.09-07.06.01:158][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/img/Sanglier/Sanglier_Walk" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset" SILENT=true
+[2018.04.09-07.06.01:238][906]LogSavePackage: Save=3.17ms
+[2018.04.09-07.06.01:238][906]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_Walk6224B371476B689F7ABCE68FC970264F.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset'
+[2018.04.09-07.06.01:246][906]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.uasset
+[2018.04.09-07.06.04:254][ 22]AssetReimport: Reimported asset Sanglier_Walk from C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/Sanglier/Sanglier_Walk.png.
+[2018.04.09-07.06.08:142][124]LogSlate: Window 'Extract sprites' being destroyed
+[2018.04.09-07.06.17:773][342]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.04.09-07.06.18:849][343]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.09-07.06.44:117][947]LogEditorTransaction: Undo Add Node
+[2018.04.09-07.07.07:597][468]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.07.07:664][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.07.07:664][468]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.09-07.07.07:685][468]LogPlayLevel: [PlayLevel] Compiling Sanglier_BP before play...
+[2018.04.09-07.07.08:317][468]LogPlayLevel: PlayLevel: Blueprint regeneration took 653 ms (1 blueprints)
+[2018.04.09-07.07.08:318][468]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:07:08)
+[2018.04.09-07.07.08:318][468]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.07.08:495][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176885s)
+[2018.04.09-07.07.08:496][468]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.07.08:496][468]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2018.04.09-07.07.08:497][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.178306s)
+[2018.04.09-07.07.08:532][468]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.07.08:541][468]LogInit: FAudioDevice initialized.
+[2018.04.09-07.07.08:590][468]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.07.08:608][468]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.07.08
+[2018.04.09-07.07.08:609][468]LogWorld: Bringing up level for play took: 0.017702
+[2018.04.09-07.07.08:622][468]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 1,396
+[2018.04.09-07.07.08:623][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.07.17:017][697]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.07.17:068][697]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.07.17:122][697]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.07.23:642][844]LogMaterial: Missing cached shader map for material spritegrass_test_Mat, compiling. 
+[2018.04.09-07.07.23:861][844]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.04.09-07.07.23:861][844]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.04.09-07.07.23:861][844]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.04.09-07.07.25:810][895]LogRenderer: Reallocating scene render targets to support 1344x788 Format 9 NumSamples 1 (Frame:69).
+[2018.04.09-07.07.31:023][993]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.07.31:140][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.07.31:141][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.09-07.07.31:141][993]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:07:31)
+[2018.04.09-07.07.31:142][993]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.07.31:516][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.373570s)
+[2018.04.09-07.07.31:517][993]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.07.31:517][993]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2018.04.09-07.07.31:517][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.375384s)
+[2018.04.09-07.07.31:595][993]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.07.31:616][993]LogInit: FAudioDevice initialized.
+[2018.04.09-07.07.31:682][993]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.07.31:705][993]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.07.31
+[2018.04.09-07.07.31:706][993]LogWorld: Bringing up level for play took: 0.021350
+[2018.04.09-07.07.31:724][993]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0,498
+[2018.04.09-07.07.31:724][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.07.45:070][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.07.47:492][328]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.04.09-07.07.47:492][328]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.04.09-07.07.47:492][328]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.04.09-07.07.47:492][328]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.07.47:550][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.07.49:740][345]LogSlate: Window 'Sanglier_BP*' being destroyed
+[2018.04.09-07.07.49:745][345]LogSlate: Window 'Sanglier_BP*' being destroyed
+[2018.04.09-07.07.56:113][411]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.07.56:380][412]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.04.09-07.07.57:445][415]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.09-07.08.03:153][431]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.09-07.08.18:511][473]LogSavePackage: Save=739.56ms
+[2018.04.09-07.08.18:511][473]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMap_Auto1BD6A264743534B1B960DDE991D413F5E.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Maps/BaseMap_Auto1.umap'
+[2018.04.09-07.08.18:517][473]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Maps/BaseMap_Auto1.umap
+[2018.04.09-07.08.18:521][473]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BaseMap' took 0.866
+[2018.04.09-07.08.18:521][473]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.866
+[2018.04.09-07.08.18:527][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/img/Sanglier/Sanglier_BP] ([1] browsable assets)...
+[2018.04.09-07.08.18:528][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/img/Sanglier/Sanglier_BP]
+[2018.04.09-07.08.18:659][473]LogSavePackage: Save=40.10ms
+[2018.04.09-07.08.18:659][473]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_BP_Auto15515C16E4D8FA7582F3EEE85B6E58F5E.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/Sanglier/Sanglier_BP_Auto1.uasset'
+[2018.04.09-07.08.18:663][473]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/Sanglier/Sanglier_BP_Auto1.uasset
+[2018.04.09-07.08.18:667][473]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Data/img/Sanglier/Sanglier_Walk_Sprite_0] ([1] browsable assets)...
+[2018.04.09-07.08.18:677][473]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Data/img/Sanglier/Sanglier_Walk_Sprite_0.Sanglier_Walk_Sprite_0]
+[2018.04.09-07.08.18:677][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/img/Sanglier/Sanglier_Walk_Sprite_0]
+[2018.04.09-07.08.18:687][473]LogSavePackage: Save=7.85ms
+[2018.04.09-07.08.18:687][473]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_Walk_Sprite_0_Auto1186D1C974E59205E59214F8794014308.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/Sanglier/Sanglier_Walk_Sprite_0_Auto1.uasset'
+[2018.04.09-07.08.18:690][473]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/Sanglier/Sanglier_Walk_Sprite_0_Auto1.uasset
+[2018.04.09-07.08.18:693][473]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Data/img/Sanglier/Sanglier_Walk_Sprite_1] ([1] browsable assets)...
+[2018.04.09-07.08.18:703][473]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Data/img/Sanglier/Sanglier_Walk_Sprite_1.Sanglier_Walk_Sprite_1]
+[2018.04.09-07.08.18:703][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/img/Sanglier/Sanglier_Walk_Sprite_1]
+[2018.04.09-07.08.18:712][473]LogSavePackage: Save=6.18ms
+[2018.04.09-07.08.18:712][473]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_Walk_Sprite_1_Auto19030C67E42E2DD4B75415BAA611B9208.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/Sanglier/Sanglier_Walk_Sprite_1_Auto1.uasset'
+[2018.04.09-07.08.18:716][473]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/Sanglier/Sanglier_Walk_Sprite_1_Auto1.uasset
+[2018.04.09-07.08.18:718][473]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Data/img/Sanglier/Sanglier_FB_Walk] ([1] browsable assets)...
+[2018.04.09-07.08.18:730][473]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Data/img/Sanglier/Sanglier_FB_Walk.Sanglier_FB_Walk]
+[2018.04.09-07.08.18:730][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/img/Sanglier/Sanglier_FB_Walk]
+[2018.04.09-07.08.18:739][473]LogSavePackage: Save=5.14ms
+[2018.04.09-07.08.18:739][473]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Sanglier_FB_Walk_Auto1046ADBC744978420348617831A80E25F.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/Sanglier/Sanglier_FB_Walk_Auto1.uasset'
+[2018.04.09-07.08.18:742][473]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/Sanglier/Sanglier_FB_Walk_Auto1.uasset
+[2018.04.09-07.08.18:742][473]LogFileHelpers: Auto-saving content packages took 0.220
+[2018.04.09-07.12.09:075][182]AssetReimport: New page: Outstanding source content changes 11:12:09
+[2018.04.09-07.12.09:077][182]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_Idle.png)
+[2018.04.09-07.12.09:284][183]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-07.12.09:313][183]LogSavePackage: Save=3.18ms
+[2018.04.09-07.12.09:313][183]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Megevant_Idle5F47CBE2492BB7089B0FD8956CFFE99C.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_Idle.uasset'
+[2018.04.09-07.12.09:322][183]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_Idle.uasset
+[2018.04.09-07.12.10:081][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.12.12:400][291]AssetReimport: Importing new asset /Game/Data/img/PNJ/Megevant/Megevant_Idle.
+[2018.04.09-07.12.32:612][897]LogTexture: Display: Building textures: Megevant_Idle (BGRA8, 32X32)
+[2018.04.09-07.12.33:959][916]LogSavePackage: Save=5.80ms
+[2018.04.09-07.12.33:959][916]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Megevant_IdleEB9816534511B78CF80C5C8749A7CC03.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_Idle.uasset'
+[2018.04.09-07.12.33:971][916]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_Idle.uasset
+[2018.04.09-07.12.35:290][942]LogSlate: Window 'Megevant_Idle' being destroyed
+[2018.04.09-07.12.35:301][942]LogSlate: Window 'Megevant_Idle' being destroyed
+[2018.04.09-07.13.21:009][451]LogSavePackage: Save=3.90ms
+[2018.04.09-07.13.21:009][451]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Megevant_Idle931CECE448280B3D91A63DB91A610C41.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_Idle.uasset'
+[2018.04.09-07.13.21:014][451]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_Idle.uasset
+[2018.04.09-07.13.33:273][660]LogSlate: Window 'Megevant_Idle' being destroyed
+[2018.04.09-07.13.33:304][660]LogSlate: Window 'Megevant_Idle' being destroyed
+[2018.04.09-07.13.45:020][828]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.04.09-07.13.50:645][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.13.51:384][938]LogRenderer: Reallocating scene render targets to support 1344x900 Format 9 NumSamples 1 (Frame:1).
+[2018.04.09-07.14.20:125][750]LogSlate: Window 'Extract sprites' being destroyed
+[2018.04.09-07.14.33:182][ 21]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.14.33:236][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.14.33:237][ 21]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.09-07.14.33:242][ 21]LogPlayLevel: [PlayLevel] Compiling Megevant_BP before play...
+[2018.04.09-07.14.33:875][ 21]LogPlayLevel: PlayLevel: Blueprint regeneration took 638 ms (1 blueprints)
+[2018.04.09-07.14.33:876][ 21]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:14:33)
+[2018.04.09-07.14.33:876][ 21]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.14.34:052][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.175933s)
+[2018.04.09-07.14.34:053][ 21]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.14.34:054][ 21]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2018.04.09-07.14.34:054][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.177446s)
+[2018.04.09-07.14.34:090][ 21]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.14.34:101][ 21]LogInit: FAudioDevice initialized.
+[2018.04.09-07.14.34:152][ 21]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.14.34:167][ 21]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.14.34
+[2018.04.09-07.14.34:168][ 21]LogWorld: Bringing up level for play took: 0.015666
+[2018.04.09-07.14.34:179][ 21]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0,953
+[2018.04.09-07.14.34:180][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.14.37:362][121]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.14.37:422][121]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.14.37:475][121]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.14.38:931][142]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.04.09-07.14.40:260][162]LogEditorViewport: Clicking on Actor (LMB): Sanglier_BP_C (Sanglier_BP)
+[2018.04.09-07.14.41:625][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.14.49:976][306]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-07.14.54:411][492]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.09-07.14.56:322][518]BlueprintLog: New page: Compile My_Player
+[2018.04.09-07.15.02:604][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.15.29:178][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.15.39:860][ 39]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.15.39:928][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.15.39:928][ 39]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.09-07.15.39:938][ 39]LogPlayLevel: [PlayLevel] Compiling Megevant_BP before play...
+[2018.04.09-07.15.40:447][ 39]LogPlayLevel: PlayLevel: Blueprint regeneration took 518 ms (1 blueprints)
+[2018.04.09-07.15.40:447][ 39]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:15:40)
+[2018.04.09-07.15.40:448][ 39]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.15.40:631][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.182844s)
+[2018.04.09-07.15.40:632][ 39]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.15.40:633][ 39]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2018.04.09-07.15.40:633][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.184661s)
+[2018.04.09-07.15.40:680][ 39]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.15.40:689][ 39]LogInit: FAudioDevice initialized.
+[2018.04.09-07.15.40:740][ 39]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.15.40:753][ 39]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.15.40
+[2018.04.09-07.15.40:754][ 39]LogWorld: Bringing up level for play took: 0.012861
+[2018.04.09-07.15.40:767][ 39]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 1,541
+[2018.04.09-07.15.40:767][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.15.50:058][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.15.50:113][337]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.15.50:186][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.15.55:458][401]BlueprintLog: New page: Compile Megevant_BP
+[2018.04.09-07.15.58:815][433]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-07.16.00:583][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.16.14:139][685]LogSavePackage: Save=9.36ms
+[2018.04.09-07.16.14:139][685]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Megevant_FB_IdleE0275DAF48CE21C9F08D3FA4CEEC53B4.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_FB_Idle.uasset'
+[2018.04.09-07.16.14:151][685]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/img/PNJ/Megevant/Megevant_FB_Idle.uasset
+[2018.04.09-07.16.17:635][741]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.04.09-07.16.19:546][765]BlueprintLog: New page: Compile Megevant_BP
+[2018.04.09-07.16.23:910][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.16.24:605][822]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.16.24:688][822]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.16.24:689][822]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.09-07.16.24:695][822]LogPlayLevel: [PlayLevel] Compiling Megevant_BP before play...
+[2018.04.09-07.16.25:152][822]LogPlayLevel: PlayLevel: Blueprint regeneration took 463 ms (1 blueprints)
+[2018.04.09-07.16.25:152][822]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:16:25)
+[2018.04.09-07.16.25:153][822]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.16.25:330][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176948s)
+[2018.04.09-07.16.25:331][822]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.16.25:331][822]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2018.04.09-07.16.25:331][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.178207s)
+[2018.04.09-07.16.25:370][822]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.16.25:379][822]LogInit: FAudioDevice initialized.
+[2018.04.09-07.16.25:433][822]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.16.25:444][822]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.16.25
+[2018.04.09-07.16.25:445][822]LogWorld: Bringing up level for play took: 0.011699
+[2018.04.09-07.16.25:454][822]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0,229
+[2018.04.09-07.16.25:455][822]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.16.30:494][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.16.30:548][981]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.16.30:606][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.16.31:761][995]LogEditorViewport: Clicking on Actor (LMB): Megevant_BP_C (Megevant_BP)
+[2018.04.09-07.16.40:731][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-07.16.47:210][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.09-07.16.52:305][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.16.59:425][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.17.03:494][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.17.10:771][566]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.04.09-07.17.10:771][566]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.04.09-07.17.22:729][708]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.04.09-07.17.22:729][708]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.04.09-07.17.23:737][721]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.04.09-07.17.23:737][721]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.04.09-07.17.26:547][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.17.35:644][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.17.45:556][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.17.45:644][994]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.17.45:763][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.17.45:763][994]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.09-07.17.45:771][994]LogPlayLevel: [PlayLevel] Compiling Megevant_BP before play...
+[2018.04.09-07.17.46:435][994]LogPlayLevel: PlayLevel: Blueprint regeneration took 672 ms (1 blueprints)
+[2018.04.09-07.17.46:435][994]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:17:46)
+[2018.04.09-07.17.46:436][994]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.17.46:614][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178312s)
+[2018.04.09-07.17.46:615][994]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.17.46:616][994]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2018.04.09-07.17.46:616][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.179729s)
+[2018.04.09-07.17.46:654][994]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.17.46:669][994]LogInit: FAudioDevice initialized.
+[2018.04.09-07.17.46:725][994]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.17.46:738][994]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.17.46
+[2018.04.09-07.17.46:739][994]LogWorld: Bringing up level for play took: 0.013306
+[2018.04.09-07.17.46:756][994]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 1,53
+[2018.04.09-07.17.46:756][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.17.50:479][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.17.50:545][ 83]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.17.50:599][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.18.02:113][243]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.18.02:181][243]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.18.02:181][243]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.09-07.18.02:187][243]LogPlayLevel: [PlayLevel] Compiling Megevant_BP before play...
+[2018.04.09-07.18.02:662][243]LogPlayLevel: PlayLevel: Blueprint regeneration took 481 ms (1 blueprints)
+[2018.04.09-07.18.02:663][243]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:18:02)
+[2018.04.09-07.18.02:663][243]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.18.02:853][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.189068s)
+[2018.04.09-07.18.02:853][243]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.18.02:854][243]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.04.09-07.18.02:854][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.190323s)
+[2018.04.09-07.18.02:893][243]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.18.02:903][243]LogInit: FAudioDevice initialized.
+[2018.04.09-07.18.02:955][243]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.18.02:968][243]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.18.02
+[2018.04.09-07.18.02:970][243]LogWorld: Bringing up level for play took: 0.014227
+[2018.04.09-07.18.02:979][243]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 1,753
+[2018.04.09-07.18.02:979][243]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.18.05:764][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.18.05:826][318]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.18.05:882][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.18.07:997][343]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.18.08:646][343]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.08:659][343]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.09-07.18.08:659][343]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.09-07.18.08:659][343]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.18.08:703][343]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.18.08:712][343]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.18.08:777][343]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.15:225][443]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.09-07.18.15:225][443]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.18.15:225][443]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.18.15:502][449]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.09-07.18.19:395][510]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.09-07.18.20:213][535]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.09-07.18.21:012][559]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.18.21:067][559]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.18.21:082][559]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.21:092][559]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSample_0, compiling. 
+[2018.04.09-07.18.21:238][560]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.18.22:214][575]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.18.22:306][575]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.23:540][600]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.09-07.18.26:580][640]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.18.26:581][640]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.18.26:581][640]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.09-07.18.29:320][681]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.09-07.18.29:482][686]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.09-07.18.29:566][689]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.09-07.18.30:310][713]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.04.09-07.18.31:204][750]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.09-07.18.31:311][754]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.09-07.18.31:998][776]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.09-07.18.34:846][818]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.04.09-07.18.34:960][820]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.09-07.18.36:619][839]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.09-07.18.37:795][851]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.38:356][851]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.09-07.18.38:356][851]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.09-07.18.38:368][851]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.09-07.18.38:386][851]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.38:416][851]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.43:557][933]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.18.44:775][951]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.18.46:925][984]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.DefaultTextMaterialOpaque:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.PixelFontmat:MaterialGraph_1.MaterialGraphNode_2
+[2018.04.09-07.18.46:926][984]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionFontSampleParameter'"MaterialGraphNode_2.MaterialExpressionFontSampleParameter_0"',OutputIndex=1,Mask=1,MaskR=1)'
+[2018.04.09-07.18.46:950][984]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.47:017][984]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.49:627][ 30]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.18.51:112][ 51]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.51:477][ 59]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.51:479][ 59]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.18.51:479][ 59]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.04.09-07.18.51:520][ 59]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.51:521][ 59]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.18.51:521][ 59]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.04.09-07.18.51:539][ 59]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.09-07.18.51:555][ 59]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.51:571][ 59]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.51:573][ 59]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.18.51:573][ 59]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.04.09-07.18.51:581][ 59]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.04.09-07.18.51:957][ 64]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.51:959][ 64]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.18.51:960][ 64]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.04.09-07.18.52:387][ 75]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.52:388][ 75]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.18.52:388][ 75]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2018.04.09-07.18.52:678][ 83]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.09-07.18.52:987][ 92]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.09-07.18.52:988][ 92]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.53:048][ 92]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.53:106][ 92]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.53:121][ 92]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.53:432][ 96]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.54:051][114]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.09-07.18.54:210][119]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.54:248][119]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.54:303][119]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.54:318][119]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.54:878][127]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.54:956][127]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.55:043][127]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.55:061][127]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.55:339][132]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.55:373][132]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.55:440][132]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.55:456][132]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.55:646][135]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.55:687][135]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.55:755][135]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.55:771][135]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.56:424][143]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.09-07.18.57:056][160]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.57:085][160]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.09-07.18.57:096][160]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.18.57:445][166]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.09-07.18.58:518][190]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.18.58:578][190]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.19.03:089][266]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.03:145][266]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.04.09-07.19.03:150][266]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.19.05:208][310]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.05:210][310]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.05:210][310]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.05:223][310]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.19.05:258][310]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.05:259][310]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.05:259][310]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.05:266][310]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.06:654][334]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.09-07.19.07:636][349]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.09-07.19.10:436][387]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.10:438][387]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.10:438][387]LogMaterial: 	(Node FontSampleParameter) Font Param> Missing input Font
+[2018.04.09-07.19.10:456][387]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.19.10:483][387]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Missing input Font
+[2018.04.09-07.19.12:733][435]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.12:735][435]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.12:735][435]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.12:750][435]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.19.12:785][435]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.12:786][435]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.12:786][435]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.12:794][435]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.13:331][445]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.09-07.19.15:425][478]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.09-07.19.16:655][496]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.16:657][496]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.16:657][496]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.16:700][496]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.19.16:706][496]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.19.17:779][512]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.17:874][512]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.19.18:490][526]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.09-07.19.18:847][537]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.18:848][537]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.18:848][537]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.19.18:863][537]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.19.18:900][537]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.19.19:632][557]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.09-07.19.23:772][632]LogMaterialEditor: Saving and Compiling material PixelFontmat
+[2018.04.09-07.19.23:999][632]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.09-07.19.24:067][632]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.09-07.19.24:785][632]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.04.09-07.19.25:719][632]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.25:719][632]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.25:719][632]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.19.25:767][632]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.25:767][632]LogMaterial: Warning: /Game/Data/PixelFontmat.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.25:767][632]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.19.25:774][632]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.25:775][632]LogMaterial: Warning: /Game/Data/PixelFontmat.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.25:775][632]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.19.25:825][632]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PixelFontmat, compiling. 
+[2018.04.09-07.19.25:826][632]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2018.04.09-07.19.25:946][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/PixelFontmat" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset" SILENT=true
+[2018.04.09-07.19.25:969][632]LogSavePackage: Save=19.64ms
+[2018.04.09-07.19.25:969][632]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/PixelFontmatCF635FF4442ADC0E35126EA23AD98142.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset'
+[2018.04.09-07.19.25:978][632]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset
+[2018.04.09-07.19.25:985][632]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.09-07.19.25:985][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.09-07.19.25:985][632]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.09-07.19.25:985][632]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.09-07.19.25:985][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.09-07.19.30:347][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.19.39:869][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.19.57:358][178]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.57:359][178]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.57:359][178]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.57:368][178]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.19.57:398][178]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.19.57:398][178]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.19.57:398][178]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.57:403][178]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.19.58:624][198]LogMaterialEditor: Saving and Compiling material PixelFontmat
+[2018.04.09-07.20.00:018][198]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.04.09-07.20.00:686][198]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.20.00:687][198]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.20.00:687][198]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.20.00:721][198]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.20.00:722][198]LogMaterial: Warning: C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\Content\Data\PixelFontmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.20.00:722][198]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.20.00:729][198]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.20.00:730][198]LogMaterial: Warning: C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\Content\Data\PixelFontmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.20.00:730][198]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.20.00:782][198]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PixelFontmat, compiling. 
+[2018.04.09-07.20.00:783][198]TextureStreamingBuild: Display: Compiling optional shaders took 0.009 seconds.
+[2018.04.09-07.20.00:882][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/PixelFontmat" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset" SILENT=true
+[2018.04.09-07.20.00:964][198]LogSavePackage: Save=14.50ms
+[2018.04.09-07.20.00:964][198]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/PixelFontmatD74377DF465C00890B1AA2A0EB2F59E3.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset'
+[2018.04.09-07.20.00:972][198]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset
+[2018.04.09-07.20.50:327][603]LogSavePackage: Save=1012.90ms
+[2018.04.09-07.20.50:327][603]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/BaseMap_Auto270E057614BD62C88D2E89C8092F5658A.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Maps/BaseMap_Auto2.umap'
+[2018.04.09-07.20.50:332][603]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Maps/BaseMap_Auto2.umap
+[2018.04.09-07.20.50:336][603]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/BaseMap' took 1.157
+[2018.04.09-07.20.50:336][603]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.157
+[2018.04.09-07.20.50:343][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Data/img/PNJ/Megevant/Megevant_BP] ([1] browsable assets)...
+[2018.04.09-07.20.50:344][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/img/PNJ/Megevant/Megevant_BP]
+[2018.04.09-07.20.50:369][603]LogSavePackage: Save=20.84ms
+[2018.04.09-07.20.50:369][603]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Megevant_BP_Auto2FF1215534472DFC191053CAC5C7FD0B3.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/PNJ/Megevant/Megevant_BP_Auto2.uasset'
+[2018.04.09-07.20.50:373][603]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/PNJ/Megevant/Megevant_BP_Auto2.uasset
+[2018.04.09-07.20.50:376][603]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Data/img/PNJ/Megevant/Megevant_Idle_Sprite_0] ([1] browsable assets)...
+[2018.04.09-07.20.50:387][603]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Data/img/PNJ/Megevant/Megevant_Idle_Sprite_0.Megevant_Idle_Sprite_0]
+[2018.04.09-07.20.50:387][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Data/img/PNJ/Megevant/Megevant_Idle_Sprite_0]
+[2018.04.09-07.20.50:398][603]LogSavePackage: Save=7.37ms
+[2018.04.09-07.20.50:398][603]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Megevant_Idle_Sprite_0_Auto2879D98924401FC784D4327B535356F74.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/PNJ/Megevant/Megevant_Idle_Sprite_0_Auto2.uasset'
+[2018.04.09-07.20.50:401][603]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Autosaves/Game/Data/img/PNJ/Megevant/Megevant_Idle_Sprite_0_Auto2.uasset
+[2018.04.09-07.20.50:401][603]LogFileHelpers: Auto-saving content packages took 0.061
+[2018.04.09-07.21.16:753][767]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2018.04.09-07.21.31:654][ 76]LogSavePackage: Save=10.01ms
+[2018.04.09-07.21.31:654][ 76]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Perfect_DOS_VGA_437_Font_OfflineC88A38EF418BAF049D55E89936BCB49C.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Font/Perfect_DOS_VGA_437_Font_Offline.uasset'
+[2018.04.09-07.21.31:665][ 76]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Font/Perfect_DOS_VGA_437_Font_Offline.uasset
+[2018.04.09-07.21.35:757][158]LogSlate: Window 'Really change the font cache type?' being destroyed
+[2018.04.09-07.21.45:055][158]LogFactory: FactoryCreateNew: Font with TrueTypeFontFactory (1 0 )
+[2018.04.09-07.21.45:071][158]LogTTFontImport: OutPutGlyph X=209 Y=1 FontHeight=10 FontWidth=5 Char=0020 U=209 V=2 =Usize=5 VSIze=10
+[2018.04.09-07.21.45:108][158]LogTTFontImport: OutPutGlyph X=39 Y=58 FontHeight=10 FontWidth=5 Char=00ff U=39 V=59 =Usize=5 VSIze=10
+[2018.04.09-07.21.45:122][158]LogTexture: Display: Building textures: Perfect_DOS_VGA_437_Font_Offline_PageA (AutoDXT, 256X128)
+[2018.04.09-07.21.45:143][158]LogTTFontImport: ImportTrueTypeFont: Total Time 0.08
+[2018.04.09-07.21.48:319][212]LogSavePackage: Save=8.92ms
+[2018.04.09-07.21.48:319][212]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Perfect_DOS_VGA_437_Font_Offline5A6B3627455AE4CB022E018FFDB57B8F.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Font/Perfect_DOS_VGA_437_Font_Offline.uasset'
+[2018.04.09-07.21.48:327][212]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Font/Perfect_DOS_VGA_437_Font_Offline.uasset
+[2018.04.09-07.21.53:678][329]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.21.53:678][329]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.21.53:678][329]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.21.53:689][329]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.21.53:712][329]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.09-07.21.53:712][329]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.09-07.21.53:740][329]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.21.53:742][329]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.21.53:743][329]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.21.53:752][329]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.21.55:776][360]LogMaterialEditor: Saving and Compiling material PixelFontmat
+[2018.04.09-07.21.56:903][360]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.04.09-07.21.57:611][360]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.21.57:611][360]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.21.57:611][360]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.21.57:639][360]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.21.57:640][360]LogMaterial: Warning: C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\Content\Data\PixelFontmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.21.57:640][360]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.21.57:645][360]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.21.57:645][360]LogMaterial: Warning: C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\Content\Data\PixelFontmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.21.57:645][360]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.21.57:692][360]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PixelFontmat, compiling. 
+[2018.04.09-07.21.57:693][360]TextureStreamingBuild: Display: Compiling optional shaders took 0.007 seconds.
+[2018.04.09-07.21.57:800][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Data/PixelFontmat" FILE="C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset" SILENT=true
+[2018.04.09-07.21.57:887][360]LogSavePackage: Save=15.91ms
+[2018.04.09-07.21.57:887][360]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/PixelFontmat510294AE40AB41DF69B81B9C8791A4B8.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset'
+[2018.04.09-07.21.57:894][360]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Data/PixelFontmat.uasset
+[2018.04.09-07.22.37:015][687]Cmd: TRANSACTION UNDO
+[2018.04.09-07.22.37:015][687]LogEditorTransaction: Undo Edit Properties
+[2018.04.09-07.22.37:055][687]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.22.37:128][687]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.22.37:128][687]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.09-07.22.37:128][687]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.09-07.22.37:131][687]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.22.37:166][687]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.22.37:167][687]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.22.37:167][687]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.22.37:177][687]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.22.37:408][693]Cmd: TRANSACTION UNDO
+[2018.04.09-07.22.37:408][693]LogEditorTransaction: Undo Edit Em Scale
+[2018.04.09-07.22.37:418][693]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.22.37:486][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.22.37:498][693]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.22.37:499][693]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.22.37:499][693]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.22.37:532][693]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.22.39:231][736]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.04.09-07.22.41:597][772]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.09-07.22.42:249][782]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.09-07.22.42:998][796]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.22.43:620][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.22.44:909][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.22.45:966][841]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.22.47:788][865]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.09-07.22.48:171][866]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.09-07.22.48:171][866]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.09-07.22.48:910][868]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.09-07.22.48:910][868]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.04.09-07.22.48:910][868]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.09-07.22.49:269][869]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.09-07.22.49:587][870]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.09-07.22.49:587][870]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.04.09-07.22.49:941][871]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.09-07.22.49:941][871]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.09-07.22.49:941][871]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.09-07.22.50:325][872]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.09-07.22.50:325][872]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.09-07.22.50:325][872]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.09-07.22.50:630][873]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.09-07.22.50:630][873]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.09-07.22.50:966][874]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.04.09-07.22.50:966][874]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.04.09-07.22.51:376][875]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.09-07.22.51:709][876]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.09-07.22.52:082][877]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.09-07.22.53:584][897]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.09-07.22.53:584][897]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.09-07.22.53:943][898]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.09-07.22.54:621][900]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.09-07.22.54:621][900]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.09-07.22.54:936][901]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.04.09-07.22.55:289][902]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.09-07.22.55:289][902]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.09-07.22.55:289][902]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.09-07.22.55:915][903]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.09-07.22.55:915][903]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.09-07.22.55:915][903]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.09-07.22.55:915][903]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.09-07.22.55:915][903]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.09-07.23.20:785][147]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.23.20:786][147]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.23.20:786][147]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.23.20:795][147]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.23.20:812][147]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.09-07.23.20:812][147]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.09-07.23.20:834][147]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.23.20:836][147]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.23.20:836][147]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.23.23:132][184]Cmd: TRANSACTION UNDO
+[2018.04.09-07.23.23:132][184]LogEditorTransaction: Undo Edit Font
+[2018.04.09-07.23.23:179][184]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.23.23:181][184]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.23.23:181][184]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.23.23:244][184]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.23.23:297][184]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.23.23:311][184]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.23.23:391][184]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.23.23:393][184]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.23.23:393][184]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.23.23:403][184]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.23.27:368][242]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.09-07.23.28:374][260]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.09-07.23.33:385][351]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.23.33:589][355]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.23.38:720][450]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.09-07.23.39:987][473]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.09-07.23.41:535][499]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.04.09-07.23.45:924][577]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.09-07.23.46:483][587]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.04.09-07.23.47:542][605]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.04.09-07.23.51:549][677]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.09-07.23.51:557][677]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.04.09-07.23.53:453][706]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.04.09-07.23.53:710][708]LogSavePackage: Save=14.70ms
+[2018.04.09-07.23.53:710][708]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/Perfect_DOS_VGA_437_Font_Offline37E61EE9413A86AFD40D03BDF1FF654B.tmp' to 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Font/Perfect_DOS_VGA_437_Font_Offline.uasset'
+[2018.04.09-07.23.53:723][708]LogSavePackage: Display: Finished SavePackage C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Content/Font/Perfect_DOS_VGA_437_Font_Offline.uasset
+[2018.04.09-07.23.55:040][730]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.09-07.23.56:251][750]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.04.09-07.23.57:388][765]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.09-07.23.57:388][765]LogMaterialEditor: Applying material PixelFontmat
+[2018.04.09-07.23.57:797][765]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.04.09-07.23.57:869][765]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.09-07.23.58:196][765]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.04.09-07.23.58:331][765]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.04.09-07.23.58:358][766]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.04.09-07.24.00:108][796]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.09-07.24.00:542][807]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.00:543][807]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.00:543][807]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Win_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.00:559][807]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.24.00:592][807]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.00:593][807]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.00:593][807]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Win_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.00:603][807]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Win_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.02:364][836]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.09-07.24.02:639][843]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.09-07.24.02:947][851]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.02:948][851]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.02:948][851]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.02:962][851]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.24.03:001][851]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.03:002][851]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.03:002][851]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.03:011][851]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.04:997][897]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.04:998][897]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.04:998][897]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.05:012][897]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.24.05:052][897]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.05:053][897]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.05:053][897]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.06:304][918]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.09-07.24.06:588][921]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.04.09-07.24.07:612][947]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.07:614][947]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.07:614][947]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'DroidSansMono' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.07:625][947]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.24.07:659][947]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.07:660][947]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.07:660][947]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'DroidSansMono' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.07:671][947]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Font 'DroidSansMono' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.08:569][960]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.09-07.24.09:553][986]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.09:554][986]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.09:554][986]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.09:570][986]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.24.09:609][986]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.09:610][986]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.09:610][986]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.09:620][986]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.12:442][ 34]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.04.09-07.24.12:571][ 38]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.09-07.24.12:929][ 52]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.04.09-07.24.17:932][160]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.04.09-07.24.17:961][160]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.17:962][160]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.17:962][160]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.17:975][160]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.24.18:009][160]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.18:010][160]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.18:010][160]LogMaterial: 	(Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.18:017][160]MaterialEditorStats: Error: [SM5] (Node FontSampleParameter) Font Param> Font 'Perfect_DOS_VGA_437_Font' is runtime cached, but only offline cached fonts can be sampled
+[2018.04.09-07.24.19:185][178]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.09-07.24.19:930][198]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.09-07.24.19:955][198]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.19:956][198]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.19:956][198]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.19:965][198]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_1, compiling. 
+[2018.04.09-07.24.20:006][198]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.20:008][198]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.20:008][198]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.20:015][198]MaterialEditorStats: Error: [SM5] (Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.23:224][246]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.04.09-07.24.26:986][308]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.09-07.24.27:083][310]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.04.09-07.24.27:215][311]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.09-07.24.27:216][311]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.09-07.24.27:216][311]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.09-07.24.27:216][311]MaterialEditorStats: Texture samplers: 3/16
+[2018.04.09-07.24.27:216][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.09-07.24.37:417][467]LogSlate: Window 'Message' being destroyed
+[2018.04.09-07.24.38:304][467]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2018.04.09-07.24.39:011][467]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.39:012][467]LogMaterial: Warning: /Engine/Transient.PixelFontmat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.39:012][467]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.39:041][467]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.39:042][467]LogMaterial: Warning: C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\Content\Data\PixelFontmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.39:042][467]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.39:047][467]LogMaterial: Missing cached shader map for material PixelFontmat, compiling. 
+[2018.04.09-07.24.39:048][467]LogMaterial: Warning: C:\Users\VaucouleurV\Documents\Unreal Projects\RPG_OGH_OGH_3_SMORPG\Content\Data\PixelFontmat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.04.09-07.24.39:048][467]LogMaterial: 	(Node LinearInterpolate) Coercion failed: Local0.rgb: float3 -> float
+[2018.04.09-07.24.39:096][467]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PixelFontmat, compiling. 
+[2018.04.09-07.24.39:096][467]TextureStreamingBuild: Display: Compiling optional shaders took 0.008 seconds.
+[2018.04.09-07.24.41:438][482]LogSlate: Window 'Message' being destroyed
+[2018.04.09-07.24.42:126][482]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.24.42:180][482]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.24.42:180][482]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.04.09-07.24.42:180][482]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.09-07.24.42:217][482]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.24.42:279][482]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.24.42:400][482]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.24.46:588][482]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.04.09-07.24.46:588][482]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.04.09-07.24.46:589][482]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.04.09-07.24.46:590][482]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.09-07.24.46:590][482]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.04.09-07.24.46:590][482]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.04.09-07.24.46:590][482]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.04.09-07.24.46:590][482]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.04.09-07.24.46:590][482]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.04.09-07.24.46:596][482]TextureStreamingBuild: Display: Compiling optional shaders took 4.206 seconds.
+[2018.04.09-07.24.46:655][482]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.09-07.24.50:321][521]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.09-07.24.53:835][559]LogEditorTransaction: Undo Replace component used material
+[2018.04.09-07.24.56:622][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.09-07.24.56:877][603]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.09-07.24.59:890][603]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.09-07.24.59:890][603]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.09-07.24.59:917][603]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.24.59:931][603]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.09-07.24.59:962][603]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.09-07.24.59:970][603]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.09-07.25.00:032][603]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSampleParameter_0, compiling. 
+[2018.04.09-07.25.04:461][675]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.09-07.25.07:204][727]LogMaterialEditor: Saving and Compiling material DefaultTextMaterialOpaque
+[2018.04.09-07.25.08:685][727]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.04.09-07.25.08:685][727]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.09-07.25.08:744][727]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.04.09-07.25.08:896][727]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.25.08:963][727]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.04.09-07.25.08:970][727]LogMaterial: Missing cached shader map for material DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.25.09:087][727]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.04.09-07.25.15:957][727]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.04.09-07.25.15:957][727]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.04.09-07.25.15:957][727]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.04.09-07.25.15:957][727]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.04.09-07.25.15:957][727]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.04.09-07.25.15:958][727]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.04.09-07.25.15:959][727]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.04.09-07.25.15:964][727]TextureStreamingBuild: Display: Compiling optional shaders took 6.891 seconds.
+[2018.04.09-07.25.22:910][727]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.04.09-07.25.22:910][727]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.04.09-07.25.22:910][727]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.04.09-07.25.22:989][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/EngineMaterials/DefaultTextMaterialOpaque" FILE="../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" SILENT=true
+[2018.04.09-07.25.23:100][727]LogSavePackage: Save=31.80ms
+[2018.04.09-07.25.23:100][727]LogSavePackage: Moving 'C:/Users/VaucouleurV/Documents/Unreal Projects/RPG_OGH_OGH_3_SMORPG/Saved/DefaultTextMaterialOpaqueC410C23E4657E57F7D55B092AC2876D8.tmp' to '../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset'
+[2018.04.09-07.25.23:111][727]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset
+[2018.04.09-07.25.23:138][727]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.04.09-07.25.23:138][727]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.04.09-07.25.23:138][727]MaterialEditorStats: Vertex shader: 41 instructions
+[2018.04.09-07.25.23:138][727]MaterialEditorStats: Texture samplers: 4/16
+[2018.04.09-07.25.23:138][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.04.09-07.25.28:784][769]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.09-07.25.28:885][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.25.28:885][769]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.09-07.25.28:921][769]LogPlayLevel: [PlayLevel] Compiling Sanglier_BP before play...
+[2018.04.09-07.25.29:258][769]LogPlayLevel: [PlayLevel] Compiling Megevant_BP before play...
+[2018.04.09-07.25.29:624][769]LogPlayLevel: [PlayLevel] Compiling BaseMap before play...
+[2018.04.09-07.25.29:782][769]LogPlayLevel: PlayLevel: Blueprint regeneration took 896 ms (3 blueprints)
+[2018.04.09-07.25.29:782][769]PIE: New page: PIE session: BaseMap (9 avr. 2018 11:25:29)
+[2018.04.09-07.25.29:783][769]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BaseMap
+[2018.04.09-07.25.29:971][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.188778s)
+[2018.04.09-07.25.29:973][769]LogAIModule: Creating AISystem for world BaseMap
+[2018.04.09-07.25.29:974][769]LogPlayLevel: PIE: World Init took: (0.002069s)
+[2018.04.09-07.25.29:974][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BaseMap.BaseMap to /Game/Maps/UEDPIE_0_BaseMap.BaseMap (0.191674s)
+[2018.04.09-07.25.30:013][769]LogInit: XAudio2 using 'Casque (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.09-07.25.30:026][769]LogInit: FAudioDevice initialized.
+[2018.04.09-07.25.30:074][769]LogLoad: Game class is 'My_GM_C'
+[2018.04.09-07.25.30:089][769]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BaseMap.BaseMap up for play (max tick rate 0) at 2018.04.09-09.25.30
+[2018.04.09-07.25.30:090][769]LogWorld: Bringing up level for play took: 0.013891
+[2018.04.09-07.25.30:099][769]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_BaseMap 0,873
+[2018.04.09-07.25.30:100][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.25.35:384][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.25.35:439][912]LogSlate: Window 'RPG_OGH_OGH_3_SMORPG Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.04.09-07.25.35:495][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/BaseMap.BaseMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap' with GeneratedClass '/Game/Maps/BaseMap.BaseMap_C' with ClassGeneratedBy '/Game/Maps/BaseMap.BaseMap:PersistentLevel.BaseMap'
+[2018.04.09-07.25.42:385][990]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{ef3d6e9e-5abc-4a77-bf30-b688434b53ba} was removed. Shutting down audio device.
